@@ -785,5 +785,5 @@ async def time_africa(interaction: discord.Interaction, city: app_commands.Choic
 async def time_oceania(interaction: discord.Interaction, city: app_commands.Choice[str]):
     await fetch_time(interaction, city)
 
-bot.run("MTI2ODM2MTg1NDU0ODQ0NzI2NA.GXO6qL.W43oMorHkjSbEr2T2NI0y3VdJdY8Vqc0RRklpI")
+bot.run("EL TOKEN FUE REMOVIDO DE AQUI POR SEGURIDAD")
 
